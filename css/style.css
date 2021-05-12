@@ -697,6 +697,7 @@ img {
     padding-left: 24px;
     padding-right: 24px;
     background-color: rgba(33, 150, 243, 0.9);
+    color: var(--color-white);
     font-size: 18px;
     line-height: 1.55;
     letter-spacing: 0.03em;
